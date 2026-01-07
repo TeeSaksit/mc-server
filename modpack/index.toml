@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "eb0287bff177c7dfab5802e6dd6adcf966b8f97101cbe583834950b41fc2af93"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "7ffd2cbb973d987d543b36f12cc9362baae07b0983b83a8292f063ed4287f9a9"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "eaa52d6ff1bcb539956d50626085d9185eca346fabcf6b3c176c53192b9958ec"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "c921067d060d427e9295c8434d0ab1232566008caa300030b42c2ee2c12ad059"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "779286fb8a1f7325f6ee888313506d65acc0504a6b9cfe0ed1075398048413d5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "5638174743ae4284b5f30f34ae6818fe1adb4824b36d86a12b1dca1059dcc3f5"
+metafile = true

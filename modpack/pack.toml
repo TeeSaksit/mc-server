@@ -1,0 +1,13 @@
+name = "MyServerPack"
+author = "Tee"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fef24a40ee66654c58bf67d38f2b3844d65bbf8d5c099db10157a5f5e6d13998"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
