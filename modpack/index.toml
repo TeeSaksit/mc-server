@@ -2,95 +2,95 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "eb0287bff177c7dfab5802e6dd6adcf966b8f97101cbe583834950b41fc2af93"
+hash = "8e03a359dfe4257c9cade378e8c29c981b168ceb0a34838b296a917331ee8a28"
 metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "7ffd2cbb973d987d543b36f12cc9362baae07b0983b83a8292f063ed4287f9a9"
+hash = "5d264a16b0269d4c847ab974ea6b93555af6b56f5530be54a45406dc55c8d2b2"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "44632c5726b473b683614443083391a29951fc6de734043c8d5ddf1ab5d2764f"
+hash = "36cbe6941b0b16bc140e0465ac1654f7b4b45a826ba53d8bc455e73c9546ca7a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+hash = "f0df50d90dcff14610db52172bb56b6278e43964d18fae0853239dae905d4398"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+hash = "c695e069bb050497dc9d262b4ebb19e20efa879d21c51f61780420ce5ab40a90"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+hash = "b80e42354a7ed541e92506e96204ca425dd22dc55c3cef5dcc161b3c487fee59"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+hash = "d53890cf52063bca46d312c75428acd1e8c754cbb23bb639e0f04a562556cfe3"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "fcf5aeb5a41fadabd7274196fed4a5e9e3a95cec5de9a3dfea889131576c4320"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "4df808c299fd18fd57b6f9f1997d89cdcbcbddf3472136b067a57979969af04e"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "ee8cbde93306796c1a4a3535672b364c27a1eebd75185838c7961cc2895027a0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+hash = "831a82763a6dfcdc3ec08c4dd387f12efa09c986e0c2ff48c500c4333038288a"
 metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "c921067d060d427e9295c8434d0ab1232566008caa300030b42c2ee2c12ad059"
+hash = "072e68890c158e923da65e4a07ad849ee4eed71f4178b56979699d4d2e31c4e3"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+hash = "2ea99e3bd447fafb450a643e064816457b9c2a48c1786b51047ec3d5f2ec2a62"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+hash = "f529ec107b8cb4cacf8da77e65e1864789d8710d22f6c4cfa3265aaab7fe8aba"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "da8027302e071db16b21c4abf1ab8f04245b283c4f44a3fdf98dc1e4c6d2d585"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+hash = "f32e1db7fd9d5c5677b32c07d8161ae94e1d6ee31f7093df35e012c99f569491"
 metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "779286fb8a1f7325f6ee888313506d65acc0504a6b9cfe0ed1075398048413d5"
+hash = "8883c9d38f7da2907ed206e7c9dab0cd52e0226f346215642d87bd03a7e1440c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "d8e1c8d570cb19aafa17aa9e98a4c6c683853fec2c9cf58e89660ce4e2ad51ba"
 metafile = true
 
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
-hash = "5638174743ae4284b5f30f34ae6818fe1adb4824b36d86a12b1dca1059dcc3f5"
+hash = "4c21dc77628c934d4657eae1b13a78969c4e953abfd05b5161f5a3c9f082be96"
 metafile = true
