@@ -41,6 +41,11 @@ hash = "c695e069bb050497dc9d262b4ebb19e20efa879d21c51f61780420ce5ab40a90"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "b80e42354a7ed541e92506e96204ca425dd22dc55c3cef5dcc161b3c487fee59"
 metafile = true
@@ -106,11 +111,6 @@ hash = "da8027302e071db16b21c4abf1ab8f04245b283c4f44a3fdf98dc1e4c6d2d585"
 metafile = true
 
 [[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f32e1db7fd9d5c5677b32c07d8161ae94e1d6ee31f7093df35e012c99f569491"
 metafile = true
@@ -133,14 +133,4 @@ metafile = true
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "4c21dc77628c934d4657eae1b13a78969c4e953abfd05b5161f5a3c9f082be96"
-metafile = true
-
-[[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "906e24b906e3814053d3c83ee03722a14daffd139db9771c14aec6f086b7f40d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/theones-eating-animation-pack.pw.toml"
-hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
 metafile = true
