@@ -16,8 +16,18 @@ hash = "5d264a16b0269d4c847ab974ea6b93555af6b56f5530be54a45406dc55c8d2b2"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
 metafile = true
 
 [[files]]
@@ -51,6 +61,11 @@ hash = "b80e42354a7ed541e92506e96204ca425dd22dc55c3cef5dcc161b3c487fee59"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "f2df7f4675bf3d2a5c3113521c836c9df3c8933ce63e0b988c25c5d91b0b379d"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a2991786a3523846ee1dcaa4c34c9f1d7a544ea4dbf252df8482b19549009b4"
 metafile = true
@@ -68,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fcf5aeb5a41fadabd7274196fed4a5e9e3a95cec5de9a3dfea889131576c4320"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
@@ -108,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "da8027302e071db16b21c4abf1ab8f04245b283c4f44a3fdf98dc1e4c6d2d585"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "6d60a9584fe5b69f3090db5fe91ee5c67534b06d004dfc3b1628c35f12820d1e"
 metafile = true
 
 [[files]]
