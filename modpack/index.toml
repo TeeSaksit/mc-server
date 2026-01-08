@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "8e03a359dfe4257c9cade378e8c29c981b168ceb0a34838b296a917331ee8a28"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
 metafile = true
 
 [[files]]
@@ -33,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "b80e42354a7ed541e92506e96204ca425dd22dc55c3cef5dcc161b3c487fee59"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7a2991786a3523846ee1dcaa4c34c9f1d7a544ea4dbf252df8482b19549009b4"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "6085d2f0a5deabc026667492ac344d9b9007c80ccadb3f916fe9b0ec3037f022"
 metafile = true
 
 [[files]]
@@ -101,6 +121,21 @@ hash = "d8e1c8d570cb19aafa17aa9e98a4c6c683853fec2c9cf58e89660ce4e2ad51ba"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "4c21dc77628c934d4657eae1b13a78969c4e953abfd05b5161f5a3c9f082be96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "906e24b906e3814053d3c83ee03722a14daffd139db9771c14aec6f086b7f40d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
 metafile = true
