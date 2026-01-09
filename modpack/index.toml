@@ -36,6 +36,11 @@ hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "38447968d8dbc7deff3bcf292a80c6d588a043ae1c627db37fd138e30f2a63fa"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "36cbe6941b0b16bc140e0465ac1654f7b4b45a826ba53d8bc455e73c9546ca7a"
 metafile = true
@@ -153,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "0db01c3a00fa869d75551efdd90a227b942f6ab8339426b956297072226341d6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "53260c1fe38e0393f824139eee8cbaa146f6dd3a6fb4511274d6831b006dc6da"
 metafile = true
 
 [[files]]
